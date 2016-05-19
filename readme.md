@@ -19,3 +19,7 @@ On OS X you should also be able to run this from within the demo app's directory
 ```php -S localhost:8000```
 
 Then just browse to http://localhost:8000 (and hope nothing else is already using port 8000).  :)
+
+## Screenshot
+
+![Demo app screenshot](https://raw.githubusercontent.com/digitalformula/nutanix-api-testing/master/screenshot.jpg)
