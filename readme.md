@@ -16,6 +16,6 @@ You'll need a web server of some sort e.g. MAMP on OS X or Windows if you don't 
 
 On OS X you should also be able to run this from within the demo app's directory.
 
-```php -S localhost:8000`
+```php -S localhost:8000```
 
 Then just browse to http://localhost:8000 (and hope nothing else is already using port 8000).  :)
